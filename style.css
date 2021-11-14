@@ -1,6 +1,17 @@
 body{font-family: 'Inter', sans-serif;font-size: 16px;}
 
-a{text-decoration: none;}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: #666;
+}
+a:visited{
+    color: #666;
+}
+a:active{
+    color: blue
+}
 
 h1, h2, h3, h4, h5, p{color: black;padding-bottom: 30px;}
 
