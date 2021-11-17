@@ -60,6 +60,10 @@ p{line-height: 20px;color: #666; font-weight: 300;}
 
 /* HEADER */
 
+.white{
+    color: #fff
+}
+
 .header{
     width: 100%;
     position: fixed;
